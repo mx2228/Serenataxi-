@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475734396546",
+    "project_id": "sarenaapp",
+    "storage_bucket": "sarenaapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475734396546:android:a1532dcd4cba772d05ee9b",
+        "android_client_info": {
+          "package_name": "com.sarena.newapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB57_V9AKwaTPrx0HEdHkbfV2JOpn9RSNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
